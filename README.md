@@ -1,1 +1,1 @@
-nuxt-poc
+# POC Nuxt 3 with Sequalize -> Cockroach DB
